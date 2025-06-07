@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/web/Test/mlruns/378393903228736266/dc6be284e71a49eab85ce28a35a879f1/artifacts
+end_time: 1748886596687
+entry_point_name: ''
+experiment_id: '378393903228736266'
+lifecycle_stage: active
+run_id: dc6be284e71a49eab85ce28a35a879f1
+run_name: clumsy-frog-853
+run_uuid: dc6be284e71a49eab85ce28a35a879f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886364699
+status: 3
+tags: []
+user_id: pc

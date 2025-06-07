@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/web/Test/mlruns/378393903228736266/64f6899f24524f8793ee536708398181/artifacts
+end_time: 1747993258889
+entry_point_name: ''
+experiment_id: '378393903228736266'
+lifecycle_stage: active
+run_id: 64f6899f24524f8793ee536708398181
+run_name: casual-swan-566
+run_uuid: 64f6899f24524f8793ee536708398181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747993230033
+status: 4
+tags: []
+user_id: pc
